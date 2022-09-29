@@ -33,4 +33,6 @@ console.log("Numbers multiplied together " + numProduct)
 console.log("Numbers divided " + num2 / num1)
 console.log("Numbers subtracted " + (num2 - num1))
 console.log("Numbers remainder " + numRemainder)
-// TASK CODE FINISHED ----->
+const password = "asoidjfaowjeroiajweoirj"
+console.log(password + "6")
+// TASK CODE FINSIHED --------->
