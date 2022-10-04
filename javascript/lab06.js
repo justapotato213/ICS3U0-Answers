@@ -2,10 +2,10 @@
 const readline = require('readline-sync');
 
 /*
-  Name:        New File Generator (script.js)
-  Purpose:     Generates a new file for use in the ICS3U course
+  Name:        Lab 6 - Repitition
+  Purpose:     Has a while loop that calculates a factorial, and a for loop that does addition. 
 
-  Author:      
+  Author:      Tony LIn
   Created:     03-Oct-2022
   Updated:     03-Oct-2022
 */
