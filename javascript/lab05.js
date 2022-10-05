@@ -5,7 +5,7 @@
   Name:        Grader
   Purpose:     Fulfill requirements set out in task.md
 
-  Author:      Tony Lin 
+  Author:      Tony Lin 708162 
   Created:     30-Sep-2022
   Updated:     30-Sep-2022
 */
@@ -56,3 +56,5 @@ if (userPassword === password){
 else{
   console.log("Sorry, try again!")
 }
+  
+
