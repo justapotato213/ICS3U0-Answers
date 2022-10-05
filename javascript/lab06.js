@@ -5,7 +5,7 @@ const readline = require('readline-sync');
   Name:        Lab 6 - Repitition
   Purpose:     Has a while loop that calculates a factorial, and a for loop that does addition. 
 
-  Author:      Tony LIn
+  Author:      Tony Lin 708162
   Created:     03-Oct-2022
   Updated:     03-Oct-2022
 */
