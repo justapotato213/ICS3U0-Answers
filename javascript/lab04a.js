@@ -1,6 +1,6 @@
 /*
-  Name:        New File Generator (script.js)
-  Purpose:     Generates a new file for use in the ICS3U course
+  Name:        Temporary Input Method
+  Purpose:     Does task.md
 
   Author:      Tony Lin 708162
   Created:     29-Sep-2022
