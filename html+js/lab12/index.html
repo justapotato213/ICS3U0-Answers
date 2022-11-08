@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <script src = "script.js"></script>
+  <!-- Miles to kilometers -->
+  <!-- Header -->
+  <h3>Miles to Kilometers</h3>
+  <!-- Label --> 
+  <label>Enter how many miles: </label>
+  <!-- Slider -->
+  <input type="range" min="1" max="1000" id="mileSlider" value="1" oninput="mileDisplay.innerHTML = 'Miles: ' + value;"/>
+  <!-- Display  -->
+  <p id="mileDisplay"></p>
+  <!-- Button -->
+  <button type="button" onclick="milesToKm()">Calculate</button>
+  <!-- Output --> 
+  <p id="kmDisplay"></p>
+
+  <!-- Sales Calculator --> 
+  <!-- Header -->
+  <h3>Sales Calculator</h3>
+  <!-- Price --> 
+  <label>Enter numeric price of item: </label>
+  <input type="text" id="price">
+  <br/>
+  <!-- Discount -->
+  <label>Enter percentage discount of item: </label>
+  <input type="text" id="discount">
+  <br/>
+  <!-- Calculate -->
+  <button type="button" onclick="saleCalculator()">Calculate</button>
+  <!-- Display --> 
+  <p id="saleDisplay"></p>
+  
+</body>
+
+</html>
